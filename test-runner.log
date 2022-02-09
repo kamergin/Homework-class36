@@ -3,3 +3,28 @@
 2022-02-10 12:17:50 info: ----------------------------------------------
 2022-02-10 12:17:53 info: All unit tests passed.
 2022-02-10 12:17:57 info: All steps were completed successfully
+2022-02-10 12:43:07 info: ----------------------------------------------
+2022-02-10 12:43:07 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-10 12:43:07 info: ----------------------------------------------
+2022-02-10 12:43:10 info: All unit tests passed.
+2022-02-10 12:43:13 info: All steps were completed successfully
+2022-02-10 12:44:00 info: ----------------------------------------------
+2022-02-10 12:44:00 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-10 12:44:00 info: ----------------------------------------------
+2022-02-10 12:44:02 info: All unit tests passed.
+2022-02-10 12:44:05 info: All steps were completed successfully
+2022-02-10 12:47:20 info: ----------------------------------------------
+2022-02-10 12:47:20 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-10 12:47:20 info: ----------------------------------------------
+2022-02-10 12:47:23 info: All unit tests passed.
+2022-02-10 12:47:26 info: All steps were completed successfully
+2022-02-10 12:48:39 info: ----------------------------------------------
+2022-02-10 12:48:39 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-10 12:48:39 info: ----------------------------------------------
+2022-02-10 12:48:42 info: All unit tests passed.
+2022-02-10 12:48:45 info: All steps were completed successfully
+2022-02-10 12:49:54 info: ----------------------------------------
+2022-02-10 12:49:54 info: >>> Running Unit Test `ex2-dogYears` <<<
+2022-02-10 12:49:54 info: ----------------------------------------
+2022-02-10 12:49:56 info: All unit tests passed.
+2022-02-10 12:49:59 info: All steps were completed successfully
