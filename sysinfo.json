@@ -1,0 +1,64 @@
+{
+  "node": "v16.13.2",
+  "system": {
+    "manufacturer": "Apple Inc.",
+    "model": "MacBookPro9,2"
+  },
+  "cpu": {
+    "manufacturer": "Intel®",
+    "brand": "Core™ i7-3520M",
+    "speed": 2.9
+  },
+  "memory": "8 GB",
+  "osInfo": {
+    "platform": "darwin",
+    "distro": "Mac OS X",
+    "release": "10.15.7"
+  },
+  "vscodeInfo": {
+    "version": "1.64.0",
+    "extensions": [
+      "bierner.emojisense",
+      "CoenraadS.bracket-pair-colorizer-2",
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "formulahendry.auto-rename-tag",
+      "formulahendry.code-runner",
+      "hnw.vscode-auto-open-markdown-preview",
+      "ritwickdey.live-sass",
+      "ritwickdey.LiveServer",
+      "streetsidesoftware.code-spell-checker",
+      "techer.open-in-browser",
+      "WallabyJs.quokka-vscode",
+      "xabikos.JavaScriptSnippets"
+    ],
+    "userSettings": {
+      "editor.bracketPairColorization.enabled": true,
+      "editor.detectIndentation": false,
+      "editor.formatOnSave": true,
+      "editor.minimap.enabled": false,
+      "editor.renderIndentGuides": true,
+      "editor.tabSize": 2,
+      "editor.codeActionsOnSave": {
+        "source.fixAll": true
+      },
+      "eslint.autoFixOnSave": true,
+      "files.autoSave": "onFocusChange",
+      "prettier.singleQuote": true,
+      "prettier.trailingComma": "all",
+      "liveServer.settings.donotShowInfoMsg": true,
+      "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "editor.hover.enabled": false,
+      "git.autofetch": true,
+      "terminal.external.osxExec": "iTerm.app",
+      "editor.wordWrap": "on",
+      "bracket-pair-colorizer-2.depreciation-notice": false,
+      "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "window.zoomLevel": 2
+    }
+  }
+}
