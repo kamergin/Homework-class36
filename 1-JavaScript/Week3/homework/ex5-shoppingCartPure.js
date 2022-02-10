@@ -1,4 +1,9 @@
+/* eslint-disable no-unused-vars */
 'use strict';
+
+const { left } = require('inquirer/lib/utils/readline');
+const { indexOf, isArrayBuffer } = require('lodash');
+
 /*------------------------------------------------------------------------------
 Full description at: https://github.com/HackYourFuture/Homework/tree/main/1-JavaScript/Week3#exercise-5-improved-shopping-at-the-supermarket
 
@@ -16,8 +21,14 @@ it pure. Do the following:
 5. Confirm that you function passes the provided unit tests.
 ------------------------------------------------------------------------------*/
 // ! Function under test
-function addToShoppingCart(/* TODO parameter(s) go here */) {
-  // TODO complete this function
+function addToShoppingCart(arr, item) {
+  if (arr.indexOf(item) === -1) {
+    const shoppingCart = [...arr, item];
+    if (shoppingCart.length > 3) {
+      shoppingCart.shift();
+    }
+    return shoppingCart;
+  }
 }
 
 // ! Test functions (plain vanilla JavaScript)
