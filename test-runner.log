@@ -28,3 +28,20 @@
 2022-02-10 12:49:54 info: ----------------------------------------
 2022-02-10 12:49:56 info: All unit tests passed.
 2022-02-10 12:49:59 info: All steps were completed successfully
+2022-02-10 02:00:28 info: -------------------------------------------
+2022-02-10 02:00:28 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2022-02-10 02:00:28 info: -------------------------------------------
+2022-02-10 02:00:32 info: All unit tests passed.
+2022-02-10 02:00:35 error: *** Spell Checker Report ***
+
+ex3-tellFortune.js:52:26 - Unknown word (Sema)
+ex3-tellFortune.js:52:34 - Unknown word (Ayla)
+ex3-tellFortune.js:52:42 - Unknown word (Leyla)
+ex3-tellFortune.js:52:51 - Unknown word (Hulya)
+ex3-tellFortune.js:52:60 - Unknown word (Derya)
+
+2022-02-10 02:04:27 info: -------------------------------------------
+2022-02-10 02:04:27 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2022-02-10 02:04:27 info: -------------------------------------------
+2022-02-10 02:04:29 info: All unit tests passed.
+2022-02-10 02:04:32 info: All steps were completed successfully
