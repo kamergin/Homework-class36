@@ -74,3 +74,8 @@ ex5-shoppingCartPure.js
 2022-02-10 10:34:21 info: -----------------------------------------
 2022-02-10 10:34:21 warn: A unit test file was not provided.
 2022-02-10 10:34:24 info: All steps were completed successfully
+2022-02-11 05:17:00 info: -------------------------------------------
+2022-02-11 05:17:00 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2022-02-11 05:17:00 info: -------------------------------------------
+2022-02-11 05:17:00 warn: A unit test file was not provided.
+2022-02-11 05:17:04 info: All steps were completed successfully
