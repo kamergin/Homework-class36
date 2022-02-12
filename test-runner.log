@@ -124,3 +124,8 @@ ex5-shoppingCartPure.js
 2022-02-12 08:30:58 info: -------------------------------------------
 2022-02-12 08:30:58 warn: A unit test file was not provided.
 2022-02-12 08:31:00 info: All steps were completed successfully
+2022-02-12 10:03:12 info: --------------------------------------------
+2022-02-12 10:03:12 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2022-02-12 10:03:12 info: --------------------------------------------
+2022-02-12 10:03:12 warn: A unit test file was not provided.
+2022-02-12 10:03:15 info: All steps were completed successfully
