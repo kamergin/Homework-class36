@@ -1,9 +1,5 @@
 /* eslint-disable no-unused-vars */
 'use strict';
-
-const { left } = require('inquirer/lib/utils/readline');
-const { indexOf, isArrayBuffer } = require('lodash');
-
 /*------------------------------------------------------------------------------
 Full description at: https://github.com/HackYourFuture/Homework/tree/main/1-JavaScript/Week3#exercise-5-improved-shopping-at-the-supermarket
 

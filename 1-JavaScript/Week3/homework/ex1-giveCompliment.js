@@ -31,7 +31,7 @@ function giveCompliment(name) {
     'chilly',
     'cool',
   ];
-  const dice = Math.round(Math.random() * 9);
+  const dice = Math.round(Math.random() * compliments.length - 1);
   return `You are ${compliments[dice]}, ${name}!`;
 }
 

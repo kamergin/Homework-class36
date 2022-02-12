@@ -1,8 +1,4 @@
 'use strict';
-
-// eslint-disable-next-line no-unused-vars
-const { forEach } = require('lodash');
-
 /*------------------------------------------------------------------------------
 Full description at: https://github.com/HackYourFuture/Homework/tree/main/1-JavaScript/Week3#exercise-7-mind-the-privacy
 
@@ -35,12 +31,10 @@ const employeeRecords = [
 
 // ! Function under test
 function filterPrivateData(arr) {
-  const newArr = [];
-  arr.forEach(function ({ name, occupation, email }) {
-    newArr.push({ name, occupation, email });
+  const newArr = arr.map(({ name, occupation, email }) => {
+    return { name, occupation, email };
   });
   return newArr;
-  // }
 }
 
 // ! Test functions (plain vanilla JavaScript)

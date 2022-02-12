@@ -34,16 +34,16 @@ body, this code is now written once only in a separated function.
 // This function should take an array as its parameter and return
 // a randomly selected element as its return value.
 function selectRandomly(arr) {
-  const dice = Math.round(Math.random() * 4);
+  const dice = Math.round(Math.random() * (arr.length - 1));
   return arr[dice];
 }
 
-function tellFortune(a, b, c, d) {
-  a = selectRandomly(a);
-  b = selectRandomly(b);
-  c = selectRandomly(c);
-  d = selectRandomly(d);
-  return `You will be a ${d} in ${c}, married to ${b} with ${a} kids.`;
+function tellFortune(kids, partners, cities, jobs) {
+  const kid = selectRandomly(kids);
+  const partner = selectRandomly(partners);
+  const city = selectRandomly(cities);
+  const job = selectRandomly(jobs);
+  return `You will be a ${job} in ${city}, married to ${partner} with ${kid} kids.`;
 }
 
 function main() {

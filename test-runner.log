@@ -79,3 +79,48 @@ ex5-shoppingCartPure.js
 2022-02-11 05:17:00 info: -------------------------------------------
 2022-02-11 05:17:00 warn: A unit test file was not provided.
 2022-02-11 05:17:04 info: All steps were completed successfully
+2022-02-12 07:18:35 info: ----------------------------------------------
+2022-02-12 07:18:35 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-12 07:18:35 info: ----------------------------------------------
+2022-02-12 07:18:38 info: All unit tests passed.
+2022-02-12 07:18:41 info: All steps were completed successfully
+2022-02-12 07:23:48 info: -------------------------------------------
+2022-02-12 07:23:48 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2022-02-12 07:23:48 info: -------------------------------------------
+2022-02-12 07:23:51 info: All unit tests passed.
+2022-02-12 07:23:54 info: All steps were completed successfully
+2022-02-12 07:30:30 info: -------------------------------------------
+2022-02-12 07:30:30 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2022-02-12 07:30:30 info: -------------------------------------------
+2022-02-12 07:30:33 info: All unit tests passed.
+2022-02-12 07:30:36 info: All steps were completed successfully
+2022-02-12 07:33:32 info: --------------------------------------------
+2022-02-12 07:33:32 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2022-02-12 07:33:32 info: --------------------------------------------
+2022-02-12 07:33:32 warn: A unit test file was not provided.
+2022-02-12 07:33:35 info: All steps were completed successfully
+2022-02-12 07:34:05 info: ------------------------------------------------
+2022-02-12 07:34:05 info: >>> Running Unit Test `ex5-shoppingCartPure` <<<
+2022-02-12 07:34:05 info: ------------------------------------------------
+2022-02-12 07:34:05 warn: A unit test file was not provided.
+2022-02-12 07:34:08 info: All steps were completed successfully
+2022-02-12 07:37:39 info: ------------------------------------------------
+2022-02-12 07:37:39 info: >>> Running Unit Test `ex5-shoppingCartPure` <<<
+2022-02-12 07:37:39 info: ------------------------------------------------
+2022-02-12 07:37:39 warn: A unit test file was not provided.
+2022-02-12 07:37:42 info: All steps were completed successfully
+2022-02-12 07:37:57 info: ------------------------------------------------
+2022-02-12 07:37:57 info: >>> Running Unit Test `ex5-shoppingCartPure` <<<
+2022-02-12 07:37:57 info: ------------------------------------------------
+2022-02-12 07:37:57 warn: A unit test file was not provided.
+2022-02-12 07:38:00 info: All steps were completed successfully
+2022-02-12 08:30:45 info: ------------------------------------------------
+2022-02-12 08:30:45 info: >>> Running Unit Test `ex5-shoppingCartPure` <<<
+2022-02-12 08:30:45 info: ------------------------------------------------
+2022-02-12 08:30:45 warn: A unit test file was not provided.
+2022-02-12 08:30:48 info: All steps were completed successfully
+2022-02-12 08:30:58 info: -------------------------------------------
+2022-02-12 08:30:58 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2022-02-12 08:30:58 info: -------------------------------------------
+2022-02-12 08:30:58 warn: A unit test file was not provided.
+2022-02-12 08:31:00 info: All steps were completed successfully
